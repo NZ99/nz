@@ -2,11 +2,15 @@
     "items":[
         {
             "url": "/",
-            "name": "Me"
+            "name": "Home"
         },
         {
             "url": "/writing",
             "name": "Writing"
+        },
+        {
+            "url": "/notes",
+            "name": "Notes"
         },
         {
             "url": "/projects",

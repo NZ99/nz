@@ -16,9 +16,7 @@ module.exports = {
         "Noto Emoji",
         "Quivira",
       ],
-      sans: [
-        "ui-sans-serif", "system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
-      ],
+      sans: ['Inter', 'Switzer', 'Georgia', 'Palatino', 'Source Serif Pro', 'sans-serif'],
       mono: [
         "ui-monospace",
         "SFMono-Regular",

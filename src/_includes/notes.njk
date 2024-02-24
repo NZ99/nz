@@ -9,7 +9,7 @@ extraStyle:
 <p class="font-sans">
   {{ page.date.toLocaleDateString("en-GB", {year: 'numeric', month: 'long'}) }}
 </p>
-{% endif %} {% backLink "writing", "writing" %} {% if content | toc %}
+{% endif %} {% backLink "notes", "notes" %} {% if content | toc %}
 
 <details
   class="block desktop:hidden text-sm bg-flint-400 rounded-md px-8 py-4 font-sans mb-4 ring-slate-600 hover:ring-1"
@@ -35,4 +35,4 @@ extraStyle:
   </div>
 </div>
 {% endif %} {{ content | safe}}
-{% backLink "writing", "writing" %}
+{% backLink "notes", "notes" %}
