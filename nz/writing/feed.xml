@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Niccolò Zanichelli - Writing</title>
+  <subtitle>RSS feed for new writing posts from Fin Moorhouse.</subtitle>
+  <link href="TBD" rel="self"/>
+  <link href="TBD"/>
+  <updated>2021-10-13T00:00:00Z</updated>
+  <id>TBD</id>
+  <author>
+    <name>Niccolò Zanichelli</name>
+  </author>
+  
+  <entry>
+    <title>What if the risk is worth it?</title>
+    <link href="/writing/what-if-the-risk-is-worth-it/"/>
+    <updated>2021-10-13T00:00:00Z</updated>
+    <id>/writing/what-if-the-risk-is-worth-it/</id>
+    <content type="html">... (Read the full post at: /writing/what-if-the-risk-is-worth-it/.)</content>
+  </entry>
+  
+  <entry>
+    <title>On desiderable AI futures</title>
+    <link href="/writing/on_desiderable_AI_futures/"/>
+    <updated>2021-10-13T00:00:00Z</updated>
+    <id>/writing/on_desiderable_AI_futures/</id>
+    <content type="html">
+Recently, I’ve been working on a problem profile about space governance for 80,000 Hours. This post is about a small part of that topic: deflecting asteroids and comets.
+
+Assessing the risks
+When... (Read the full post at: /writing/on_desiderable_AI_futures/.)</content>
+  </entry>
+</feed>
