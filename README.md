@@ -2,13 +2,13 @@
 
 ## URL
 
-https://finmoorhouse.com
+TBD
 
 ## About
 
-This is the current version of my personal website and blog, [finmoorhouse.com](https://finmoorhouse.com/).
+This is the current version of my personal website and blog, TBD.
 
-This is a static site built on [Eleventy](https://www.11ty.dev/) (11ty) and hosted on [Netlify](https://www.netlify.com/), with [Tailwind CSS](https://tailwindcss.com/) and a small number of additional plugins. The [previous version](https://github.com/finmoorhouse/finmoorhouse.com) of the site was built using [Gatsby JS](https://www.gatsbyjs.com/).
+This is a static site built on [Eleventy](https://www.11ty.dev/) (11ty) and hosted on [Netlify](https://www.netlify.com/), with [Tailwind CSS](https://tailwindcss.com/) and a small number of additional plugins.
 
 The `/writing` page has a Nunjucks shortcode for sidenotes, heavily inspired by Gwern's post on ['Sidenotes In Web Design'](https://gwern.net/sidenote).
 
