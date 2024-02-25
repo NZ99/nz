@@ -2,13 +2,13 @@
   "feed": {
     "subtitle": "RSS feed for new writing posts from Fin Moorhouse.",
     "filename": "feed.xml",
-    "path": "/writing/feed.xml",
-    "url": "https://finmoorhouse.com/writing/feed.xml",
-    "id": "https://www.finmoorhouse.com/"
+    "path": "/nz/writing/feed.xml",
+    "url": "TBD",
+    "id": "TBD"
   },
-  "title": "Fin Moorhouse - Writing",
-  "url": "https://www.finmoorhouse.com",
+  "title": "Niccolò Zanichelli - Writing",
+  "url": "TBD",
   "author": {
-    "name": "Fin Moorhouse"
+    "name": "Niccolò Zanichelli"
   }
 }

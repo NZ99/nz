@@ -1,19 +1,19 @@
 {
     "items":[
         {
-            "url": "/",
+            "url": "/nz/",
             "name": "Home"
         },
         {
-            "url": "/writing",
+            "url": "/nz/writing",
             "name": "Writing"
         },
         {
-            "url": "/notes",
+            "url": "/nz/notes",
             "name": "Notes"
         },
         {
-            "url": "/projects",
+            "url": "/nz/projects",
             "name": "Projects"
         }
     ]
